@@ -1,7 +1,7 @@
 # My projects
 
 
-## A Django project to represent a restaurant kitchen service:
+## A Django project to represent a restaurant kitchen service
 https://github.com/dkibalenko/restaurant-mate
 
 ## An API service for theatre management written on DRF
