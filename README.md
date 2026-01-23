@@ -1,2 +1,2 @@
-# My Portfolio & projects are here:
+# My Portfolio & Projects are here:
 https://dkibalenko.github.io/
